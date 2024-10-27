@@ -7,3 +7,6 @@ let x =10;
 
 
 console.log("Welcome Page");
+console.log(x);
+
+console.log('This is a new feature');
